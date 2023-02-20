@@ -2,7 +2,7 @@ Hey I'm Adam 👋
 
 Welcome!
 
-I'm Frontend developer interested in making great user experiences 🧑‍🚀.
+I'm Frontend developer focused on great user experiences 🧑‍🚀.
 
 - 🐈 I love all fluffy creatures and pushing the boundaries of my engineering knowledge
 - 🌱 I’m currently learning Rust
